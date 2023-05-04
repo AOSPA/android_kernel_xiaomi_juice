@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c527da32_b403b4f8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-05-04T07:36:22Z",
+      "side": 1,
+      "message": "29573: arm64: vdso32: drop -no-integrated-as flag | https://gerrit.aospa.co/c/AOSPA/android_kernel_nothing_sm7325/+/29573",
+      "revId": "620b89f17eba6ebeef3051f3f4715b31bcf249ec",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
